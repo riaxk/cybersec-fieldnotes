@@ -28,6 +28,6 @@ eg. grep "Hello" greetings.txt
 ## Shell Operators
 - &: to perform a process in the background
 - &&: to combine multiple commands together
-- >: to echo something directly to a file
-- >>: to echo something to a file without overwriting
+- > : to echo something directly to a file
+- >> : to echo something to a file without overwriting
 ...
