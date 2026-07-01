@@ -26,8 +26,8 @@ eg. grep "Hello" greetings.txt
 - wc: to list number of entries in a file
 
 ## Shell Operators
-- &: to perform a process in the background
-- &&: to combine multiple commands together
-- > : to echo something directly to a file
-- >> : to echo something to a file without overwriting
+- '&': to perform a process in the background
+- '&&': to combine multiple commands together
+- '>' : to echo something directly to a file
+- '>>' : to echo something to a file without overwriting
 ...
