@@ -23,6 +23,7 @@ Linux Fundamentals Part-2
 - "-a": this is used with ls to list all files (including hidden)
 - "--help": This command can be used with any other command to understand what all arguments can be used with the command.
 - "man": This command is used with other commands to understand all options of the command. man stands for manual
+- "su": This is used to switch between users on the machine
 - "touch": it is used to create a file
 - "mkdir": used to create a directory/folder
 - "cp": used to copy a file or folder
