@@ -1,4 +1,4 @@
-# Room Name: Linux Fundamentals Part-3
+# Linux Fundamentals Part-3
 
 **Platform:** TryHackMe 
 
@@ -32,9 +32,9 @@
 
 - cron processes are the ones that are scheduled for eg. when a process is supposed to start at rebooting that can be set through crontabs
 - crontabs uses MIN, HOUR, DOM, MON, DOW, CMD 
-- apt repository is like the root repo to upload software 
+- APT repositories are sources from which Debian-based systems retrieve software packages 
 - more repos can be made using add-apt-repository
-- /var/log contains all the details of user activity 
+- /var/log contains system and application logs; it does not necessarily record every user action 
 
 ---
 
@@ -47,3 +47,12 @@
 ## Time Taken
 
 35 mins
+
+---
+
+> **Scope:** Notes from authorized TryHackMe training rooms. These notes summarize learning and example commands; they are not independent vulnerability disclosures or proof of exploitation.
+
+## Original Lab Screenshots
+
+![Linux processes-101](../assets/Day-003/Linux%20processes-101.png)
+

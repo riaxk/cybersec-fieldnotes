@@ -1,4 +1,4 @@
-# Room Name: Network Services 2
+# Network Services 2
 
 **Platform:** TryHackMe
 
@@ -80,3 +80,7 @@ None
 
 ## Time Taken
 1 hour
+
+---
+
+> **Scope:** Notes from authorized TryHackMe training rooms. These notes summarize learning and example commands; they are not independent vulnerability disclosures or proof of exploitation.

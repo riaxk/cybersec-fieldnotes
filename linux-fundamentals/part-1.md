@@ -1,4 +1,4 @@
-# Day 001 - Linux Fundamentals
+# Linux Fundamentals — Part 1
 
 Platform: TryHackMe
 
@@ -15,7 +15,7 @@ Platform: TryHackMe
 
 ## Commands I Practiced
 - echo: echo Hello gives output as "Hello" 
-- whoami: host name
+- whoami: displays the current username
 - ls: lists files
 - cd: change directory
 - pwd: print working directory
@@ -31,3 +31,16 @@ eg. grep "Hello" greetings.txt
 - '>' : to echo something directly to a file
 - '>>' : to echo something to a file without overwriting
 ...
+
+---
+
+> **Scope:** Notes from authorized TryHackMe training rooms. These notes summarize learning and example commands; they are not independent vulnerability disclosures or proof of exploitation.
+
+## Original Lab Screenshots
+
+![linux commands-2](../assets/Day-001/linux%20commands-2.png)
+
+![linux commands-1](../assets/Day-001/linux%20commands-1.png)
+
+![shell operators](../assets/Day-001/shell%20operators.png)
+

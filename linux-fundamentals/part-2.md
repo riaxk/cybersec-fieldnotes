@@ -1,5 +1,4 @@
-# Room Name 
-Linux Fundamentals Part-2
+# Linux Fundamentals Part-2
 
 **Platform:** TryHackMe
 
@@ -40,9 +39,18 @@ r: read
 w: write
 x: execute
 - Common directories store all important information regarding the device.
-/root: it is the root directory
-/etc: short for etcetra stores passwords, usernames etc
+/root: home directory of the root user (the filesystem root is /)
+/etc: stores system-wide configuration files (including account information in /etc/passwd; password hashes are typically in /etc/shadow)
 /var: stores logs
-/tmp: stores temporary files, deleted stuff.
+/tmp: stores temporary files; it is not a recycle bin.
 
 ---
+
+---
+
+> **Scope:** Notes from authorized TryHackMe training rooms. These notes summarize learning and example commands; they are not independent vulnerability disclosures or proof of exploitation.
+
+## Original Lab Screenshots
+
+![Linux command su](../assets/Day-002/Linux%20command%20su.png)
+
